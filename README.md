@@ -9,3 +9,4 @@ Un blog increíble para el curso de Git + Gituhub de Platzi
 
 *Creado por el increíble Platzi Team 123
 *Incluye ejemplos en windows, linux, mac
+*Disponible para todas las edades
