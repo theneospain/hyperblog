@@ -7,3 +7,5 @@ Un blog increíble para el curso de Git + Gituhub de Platzi
 * Probando diferentes formas de hacer fork y merge
 * Hoy es 30 de Mayo del 2023 y espero que sirva aprender esto en el futuro.
 
+*Creado por el increíble Platzi Team 123
+*Incluye ejemplos en windows, linux, mac
